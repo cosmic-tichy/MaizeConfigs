@@ -1,0 +1,23 @@
+<application>
+  <component name="DimensionService">
+    <size key="GridCell.Tab.0.left.0.0.3840.2160" width="1803" height="598" />
+    <size key="GridCell.Tab.0.center.0.0.3840.2160" width="1803" height="598" />
+    <size key="GridCell.Tab.0.right.0.0.3840.2160" width="1803" height="598" />
+    <size key="GridCell.Tab.0.bottom.0.0.3840.2160" width="1803" height="598" />
+    <size key="GridCell.Tab.1.left.0.0.3840.2160" width="1803" height="744" />
+    <size key="GridCell.Tab.1.center.0.0.3840.2160" width="1803" height="744" />
+    <size key="GridCell.Tab.1.right.0.0.3840.2160" width="1803" height="744" />
+    <size key="GridCell.Tab.1.bottom.0.0.3840.2160" width="1803" height="744" />
+  </component>
+  <component name="WindowManager">
+    <frame x="-1" y="-20" width="1922" height="1057" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+    </layout>
+  </component>
+</application>

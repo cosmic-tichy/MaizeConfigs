@@ -1,0 +1,47 @@
+<application>
+  <component name="ProjectPluginTrackerManager">
+    <option name="trackers">
+      <map>
+        <entry key="1oJibiWaR8HnwAAHjGcMkY1Gg3R">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="MarketplacePluginsSearchHistory" value="theme&#10;matcha&#10;Maia&#10;Ma&#10;M" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="appcds.runOnSecondStart" value="PY-203.7717.81-2828f49cfbfc7d8644ee88b57996c69fefb3f4483b0e909ae65116ca4a9635cd" />
+    <property name="evlsprt3.203" value="16" />
+    <property name="experimentalFeature.terminal.shell.command.handling" value="false" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/PycharmProjects/solvingcomputerscience/hw4.py" />
+    <property name="file.gist.reindex.count" value="10763" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="PY-203.7717.81" />
+    <property name="lastSeenTip" value="neue-py-attach-to-process.html" />
+    <property name="lastTimeTipsWereShown" value="1617387907127" />
+    <property name="seenTips" value="neue-find_action.html,neue-recent-locations.html,neue-smart_selection.html,neue-InspectCode.html,neue-GoToSymbol.html,neue-db_tip_forget_cached_schemas.html,neue-SecondBasicClassNameCompletion.html,neue-py-attach-to-process.html" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.1.3" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/solvingcomputerscience/venv/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+</application>

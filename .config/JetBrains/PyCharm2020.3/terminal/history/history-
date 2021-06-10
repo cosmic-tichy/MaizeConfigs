@@ -1,0 +1,2082 @@
+#1615342549
+ls
+#1615342549
+lsusb
+#1615342549
+xrnadr
+#1615342549
+xrandr
+#1615342549
+arandr
+#1615342549
+ls
+#1615342549
+cd .i3
+#1615342549
+ls
+#1615342549
+sudo su
+#1615342549
+sudo su
+#1615342549
+echo $SHELL
+#1615342549
+ls
+#1615342549
+cd bin/
+#1615342549
+ls
+#1615342549
+cd ..
+#1615342549
+nano .bashrc 
+#1615342549
+cd bin/
+#1615342549
+ls
+#1615342549
+sh 4kmon 
+#1615342549
+fixfeh
+#1615342549
+bash fixfeh
+#1615342549
+ls
+#1615342549
+ls
+#1615342549
+bash fixfeh
+#1612046507
+ls -a
+#1612046514
+emacs .bashrc
+#1615342549
+l
+#1615342549
+ls
+#1615342549
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/ohmybash/oh-my-bash/master/tools/install.sh)"
+#1615342549
+cd .config/
+#1615342549
+ls
+#1615342549
+sudo su
+#1612046608
+4kmon
+#1612046609
+cd bin/
+#1612046611
+sh 4kmon 
+#1612052061
+4kmon
+#1612052063
+cd bin/
+#1612052065
+sh lap
+#1612052159
+fixfeh
+#1612052162
+cd bin/
+#1612052164
+sh fixfeh 
+#1612046639
+sudo su
+#1612046609
+cd bin/
+#1612046611
+sh 4kmon 
+#1612046760
+emacs .bashrc
+#1612046818
+source .bashrc
+#1612046821
+bash rkmon
+#1612046824
+4kmon
+#1612046826
+cd bi
+#1612047149
+git clone --depth=1 https://github.com/adi1090x/rofi.git
+#1612047153
+cd rofi/
+#1612047157
+sh setup.sh 
+#1612047184
+cd .config/
+#1612047186
+cd rofi
+#1612047190
+cd launchers/
+#1612047193
+cd misc/
+#1612047200
+sh launcher
+#1612047203
+sh launcher.sh
+#1612047296
+cd text/
+#1612047303
+cd styles
+#1612047305
+cd ..
+#1612047590
+cd /home/tichy/
+#1612047598
+emacs .i3/config
+#1612046608
+4kmon
+#1612046609
+cd bin/
+#1612046611
+sh 4kmon 
+#1612047329
+cd .config/
+#1612047331
+cd rofi
+#1612047338
+nano config.rasi 
+#1612047402
+cd launchers/
+#1612047415
+cd colorful/
+#1612047419
+cd ..
+#1612047420
+cd text/
+#1612047476
+emacs launcher.sh 
+#1612047519
+emacs launcher.sh
+#1612047560
+sh launcher.sh
+#1612047630
+curl -L https://git.io/epre | sh
+#1612047711
+emacs
+#1612052177
+sudo reboot
+#1612047519
+emacs launcher.sh
+#1612047560
+sh launcher.sh
+#1612047630
+curl -L https://git.io/epre | sh
+#1612047711
+emacs
+#1612052177
+sudo reboot
+#1612052241
+emacs .bashrc
+#1612052661
+source .bashrc
+#1612052665
+fixfeh
+#1612052682
+cd Videos/
+#1612052688
+rvpn
+#1612052690
+sudo su
+#1612052701
+cd bin/
+#1612052707
+cd ..
+#1612052709
+ls -la
+#1612052392
+sudo su
+#1612053652
+bat
+#1612053654
+battery
+#1612053671
+upower
+#1612053674
+acpi
+#1612053779
+sudo shutdown
+#1612057814
+htop
+#1612057784
+nmtui
+#1612057982
+sudo su
+#1612138932
+4kmon
+#1612139685
+sudo su
+#1612057784
+nmtui
+#1612057982
+sudo su
+#1612137381
+sudo chmod -R 777 bin/
+#1612137404
+sudo chown -R tichy
+#1612137411
+sudo chown -R tichy:tichy
+#1612137422
+lap
+#1612137440
+ls bin/
+#1612137443
+fixfeh
+#1612139618
+[A
+#1612139620
+rvpn
+#1612140258
+sudo su
+#1612140786
+strace
+#1612140819
+mc
+#1612140859
+ld
+#1612141152
+cd src/
+#1612141155
+cd 88x2bu/
+#1612141168
+cd ..
+#1612141231
+sudo pacman -S blackarch-cryptography
+#1612141250
+sudo pacman -S blackarch
+#1612141258
+sudo pacman -S blackarch-wireless
+#1612141313
+sudo pacman -Syu ettercap
+#1612141365
+fixfeh
+#1612145658
+openvpn stop
+#1612145662
+openvpn
+#1612139620
+rvpn
+#1612140283
+cd Downloads/
+#1612140287
+curl -O https://blackarch.org/strap.sh
+#1612140295
+sha1sum strap.sh
+#1612140303
+chmod +x strap.sh
+#1612140307
+sudo ./strap.sh
+#1612140435
+sudo pacman -Sgg | grep blackarch | cut -d’ ‘ -f2 | sort -u\
+#1612140438
+sudo pacman -Sgg | grep blackarch | cut -d’ ‘ -f2 | sort -u
+#1612140451
+sudo pacman -S metasploit
+#1612140531
+cd ..
+#1612140535
+cd .config/termite/
+#1612140546
+sudo chown tichy: config 
+#1612140551
+sudo chmod u+w myfolder
+#1612140556
+sudo chmod u+w config 
+#1612141183
+sudo rvpn
+#1612145914
+pulseaudio --check
+#1612145921
+pulseaudio -k
+#1612145925
+pulseaudio -D
+#1612145948
+sudo su
+#1612141620
+htop
+#1612142200
+sudo su
+#1612146011
+fixfeh
+#1612149641
+sudo shutdown
+#1612190504
+lap
+#1612190510
+l
+#1612190546
+nano .config/termite/config 
+#1612190525
+nano bin/lap
+#1612214216
+lap
+#1612214212
+htop
+#1612214266
+rvpn
+#1612218238
+sudo reboot
+#1612309556
+lap
+#1612310517
+rvpn
+#1612316758
+sudo reboot
+#1612317836
+sudo pacman -Syu blueman
+#1612317886
+lap
+#1612317920
+sudo pacman -Syu pulseaudio-bluetooth
+#1612318027
+pulseaudio -k
+#1612318200
+rvpn
+#1612372847
+sudo su
+#1612565980
+lap
+#1612592103
+4kmon
+#1612592167
+rvpn
+#1612593486
+lap
+#1612594627
+rvpn
+#1612594686
+nmtui
+#1612594757
+sudo reboot
+#1612594742
+ping google.com
+#1612594834
+lap
+#1612649996
+4kmon
+#1612650096
+bashtop
+#1612650102
+sudo snap install bashtop
+#1612650120
+bashtop
+#1612650479
+sudo su
+#1612650552
+sudo su
+#1612680786
+sudo shutdown
+#1612722100
+bashtop
+#1612751882
+fixfeh
+#1612751894
+bashtop
+#1612754618
+sudo su
+#1613002933
+fixfeh
+#1613003044
+sudo snap install pycharm
+#1613003204
+sudo snap install pycharm-professional --classic
+#1613002956
+sudo su
+#1613010031
+python
+#1613004341
+bashtop
+#1613013600
+python
+#1613013861
+sudo pacman -S tk
+#1613010097
+rvpn
+#1613017102
+sudo su
+#1613053445
+fixfeh
+#1613053496
+sudo reboot
+#1613088353
+fixfeh
+#1613103150
+sudo shutdown
+#1613088358
+bashtop
+#1613173037
+fixfeh
+#1613202073
+sudo shutdown
+#1613173042
+bashtop
+#1613233982
+lap
+#1613234120
+bluetooht
+#1613234132
+sudo bluetooth.service up
+#1613234173
+sudo systemctl start bluetooth.service
+#1613234178
+sudo systemctl enable bluetooth.service
+#1613234231
+sudo systemctl status bluetooth.service
+#1613234317
+sudo apt-get install bluetooth bluez bluez-tools rfkill
+#1613234343
+sudo pacman -Syu bluetooth bluez bluez-tools rfkill
+#1613234366
+This commands may help you:-
+#1613234366
+// Installing bluez:-
+#1613234366
+sudo apt-get install bluetooth bluez bluez-tools rfkill
+#1613234366
+rfkill check and unblock:
+#1613234366
+sudo rfkill list
+#1613234366
+sudo rfkill unblock bluetooth
+#1613234372
+sudo rfkill list
+#1613234372
+sudo rfkill unblock bluetooth
+#1613234383
+sudo service bluetooth start
+#1613234389
+sudo apt-get install blueman
+#1613234402
+sudo pacman -Syu install blueman
+#1613234424
+sudo systemctl restart bluetooth.service
+#1613234599
+xkill
+#1613234449
+sudo systemctl status bluetooth.service
+#1613235002
+rvpn
+#1613235089
+sudo su
+#1613245706
+4kmon
+#1613255252
+xautolock -time 10 -locker blurlock
+#1613255260
+xautolock -time 0 -locker blurlock
+#1613255266
+pkill 1400
+#1613255271
+xautolock -time 0 -locker blurlock
+#1613255279
+sudo pkill 1400
+#1613267652
+lap
+#1613272170
+fixfehf
+#1613272173
+fixfeh
+#1613314296
+4kmon
+#1613318431
+sudo reboot
+#1613318502
+fixfeh
+#1613322015
+sudo pacman -Syu steam
+#1613322526
+pkill firefox
+#1613322549
+lap
+#1613323811
+4kmon
+#1613343391
+sudo shutdown
+#1613430290
+cat bin/rk
+#1613430294
+cat bin/4kmon 
+#1613430314
+xrandr --output eDP1 --off --output DP1 --primary --auto
+#1613442490
+fixfeh
+#1613442834
+sudo snap install libreoffice
+#1613447154
+sudo shutdown
+#1614095117
+fixfeh\
+#1614095126
+fixfeh
+#1614095316
+lap
+#1614103566
+pamac search chromium
+#1614103573
+sudo su
+#1614104146
+sudo reboot
+#1614707244
+lap
+#1614716307
+alsa
+#1614716311
+alsamixer
+#1614783551
+4kmon
+#1614783606
+cd .config/
+#1614783614
+cd ..
+#1614825541
+bashtop
+#1614783620
+emacs .i3/
+#1614825768
+sudo pacman -Syu screenfetch
+#1614825938
+screenfetch
+#1614825894
+yay -S spicetify-cli
+#1614825990
+spicetify 
+#1614825958
+sudo pacman -Syu neofetch
+#1614826014
+sudo chmod a+wr /opt/spotify
+#1614826014
+sudo chmod a+wr /opt/spotify/Apps -R
+#1614825698
+bashtop
+#1614826017
+sudo su
+#1614826449
+fixfeh
+#1614826459
+pamac build spotify
+#1614827094
+pass
+#1614827154
+sudo chmod a+wr /opt/spotify
+#1614827160
+sudo chmod a+wr /opt/spotify/Apps -R
+#1614827196
+spicetify 
+#1614827199
+spicetify  -h
+#1614827220
+spicetify update
+#1614827227
+spicetify backup apply
+#1614827271
+rm Team\ 17\ Digital\ ltd_/
+#1614827275
+rm -rf Team\ 17\ Digital\ ltd_/
+#1614827283
+cd .config/
+#1614827287
+cd spicetify/
+#1614827371
+cd .config/
+#1614827378
+cd spicetify/
+#1614827381
+git clonehttps://github.com/morpheusthewhite/spicetify-themes.git 
+#1614827389
+git clone https://github.com/morpheusthewhite/spicetify-themes.git
+#1614827399
+cd spicetify-themes/
+#1614827773
+spicetify apply
+#1614827814
+cd ..
+#1614827824
+cd Themes/
+#1614827826
+cd ..
+#1614827833
+cd spicetify-themes/
+#1614827846
+cp -r * ../Themes
+#1614827850
+cd ..
+#1614827852
+cd Themes/
+#1614827881
+spicetify apply
+#1614827291
+emacs config.ini 
+#1614828224
+screenfetch 
+#1614828291
+metaflac 
+#1614828332
+screenfetch
+#1614828261
+bashtop
+#1614828410
+sudo pamac -Ss archey
+#1614828429
+pacman -Ss archey
+#1614828435
+pacman -Syu archey
+#1614828469
+archey
+#1614828471
+archey3
+#1614828438
+sudo su
+#1614828526
+screenfetch 
+#1614828542
+screenfetch
+#1614828560
+screenfetch 
+#1614828584
+screenfetch
+#1614828698
+pkill picom
+#1614828725
+screenfetch
+#1614828617
+bashtop
+#1614829764
+screenfetch 
+#1614829816
+screenfetch
+#1614829897
+pacman -Ss screenshot
+#1614829974
+i3-scrot
+#1614829983
+i3-scrot
+#1614830444
+pacman -Ss maim
+#1614830452
+pacman -Syu maim
+#1614830457
+sudo pacman -Syu maim
+#1614830499
+maim
+#1614830557
+scrot -d 10
+#1614830628
+scrot -h
+#1614830644
+scrot --delay 5
+#1614830705
+i3-scrot -d 5
+#1614830736
+i3-scrot -d 3
+#1614830751
+thunar
+#1614830981
+cd .config/
+#1614830997
+git clone https://github.com/cosmic-tichy/configfiles.git
+#1614831000
+cd configfiles/
+#1614831046
+cp -r rofi/ spicetify/ termite/ picom.conf 
+#1614831148
+cd ..
+#1614831151
+cd configfiles/
+#1614831160
+cd ..
+#1614831169
+cp .i3/ configfiles/
+#1614831175
+ls -a
+#1614831191
+git add --all .
+#1614831206
+cd spicetify/
+#1614831217
+cd ..
+#1614831220
+rm -rf spicetify/
+#1614831225
+git add --all .
+#1614831228
+git commit
+#1614831265
+git config --global user.email "nbmowery@iu.edu"
+#1614831282
+git config --global user.name "cosmic-tichy"
+#1614831286
+git commit
+#1614831294
+git push
+#1614831414
+sudo su
+#1614882507
+lap
+#1614882579
+sed -i 's/font xft:URWGothic-Book 12 7/font xft:URWGothic-Book 10/' /home/tichy/.i3/config
+#1614882595
+i3-bar reload
+#1614882640
+la[
+#1614882642
+lap
+#1614882713
+4kmon
+#1614882716
+lap
+#1614882725
+4kmon
+#1614882730
+lap
+#1614883008
+pikaur -S themix-full-git
+#1614883018
+pamac -Syu themix-full-git
+#1614883028
+pamac search themix-full-git
+#1614883039
+pacman -Ss themix
+#1614883049
+pacman -Ss oomox
+#1614883058
+pamac search oomox
+#1614883094
+pacman -Syu themix-full-git
+#1614884035
+cd .config/gtk-3.0/
+#1614884040
+nano gtk.css 
+#1614883097
+sudo su
+#1614884485
+login
+#1614884806
+cd .themes/
+#1614884810
+git clone https://github.com/sainnhe/gruvbox-material-gtk.git
+#1614884856
+cd .themes/
+#1614884859
+cd Base16-Gruvbox-Dark/
+#1614884862
+cd ..
+#1614884864
+cd gruvbox-material-gtk/
+#1614884868
+cd themes/
+#1614884893
+cp Gruvbox-Material-Dark ../..
+#1614884898
+cd ..
+#1614884909
+cd .themes/gruvbox-material-gtk/themes/
+#1614884922
+cp -r Gruvbox-Material-Dark ../../
+#1614884925
+cd ..
+#1614884983
+cd ..
+#1614884988
+cd .icons/
+#1614884990
+cd ..
+#1614884994
+cd .themes/
+#1614885000
+cd gruvbox-material-gtk/
+#1614885004
+cd icons/
+#1614885018
+cp Gruvbox-Material-Dark/ ../../../.icons/
+#1614885023
+cp -r Gruvbox-Material-Dark/ ../../../.icons/
+#1614885091
+lap
+#1614885105
+screenfetch 
+#1614885353
+scrot
+#1614885360
+screenfetch 
+#1614885368
+i3-scrot clear
+#1614885372
+screenfetch 
+#1614885377
+i3-scrot
+#1614885404
+i3-scrot -d 4
+#1614885561
+nano
+#1614885596
+i3-scrot -d 4
+#1614885573
+nano bin/4kmon 
+#1614886176
+4kmon
+#1614886699
+screenfetch 
+#1614885111
+bashtop
+#1614887542
+i3-scrot -d 4
+#1614886819
+bashtop
+#1614887718
+celar
+#1614887721
+cd .config/
+#1614887770
+cd ..
+#1614887772
+cd configfiles/
+#1614887780
+ls -a
+#1614888250
+cd configfiles/
+#1614888253
+git add --all .
+#1614888255
+git commit
+#1614888263
+git push
+#1614888393
+4kmon
+#1614917546
+bashtop
+#1614918081
+pkill picom
+#1614918316
+feh --bg-scale /home/tichy/Pictures/d9j0c3m-49f1b720-e9c8-4943-8611-d896f95c90d0.png
+#1614918905
+bashtop
+#1614919477
+python3 colorfilter.py 
+#1614919489
+mkdir colorfilter
+#1614919498
+cp colorfilter.py colorfilter
+#1614919504
+cd colorfilter
+#1614919518
+python3 -m venv venv
+#1614919527
+source venv/bin/activate
+#1614919542
+deactivate
+#1614919548
+source venv/bin/activate
+#1614919556
+pip install cv2
+#1614919567
+pip3 search cv2
+#1614919576
+pip search cv2
+#1614919606
+pacman -Syu python-pip
+#1614919755
+pip install opencv-python
+#1614918265
+emacs
+#1614919849
+python colorfilter/colorfilter.py 
+#1614919608
+sudo su
+#1614920155
+bashtop
+#1614955864
+lap
+#1614956485
+feh --bg-scale /home/tichy/Pictures/tealManjaro.png
+#1614957983
+nmtui
+#1614959062
+git clone https://github.iu.edu/dasmish/ES-SPRING-2021.git
+#1614959084
+cd ES-SPRING-2021/
+#1614959098
+cd labs/
+#1614959101
+cd lab0
+#1614959109
+make
+#1614959112
+make clean
+#1614959128
+make gdb
+#1614959149
+pacman -Syu arm-none-eabi-gcc
+#1614959196
+cd ES-SPRING-2021/
+#1614959201
+cd labs/lab05
+#1614959204
+make clean
+#1614959207
+make gdb
+#1614959247
+make
+#1614959327
+pacman -S arm-none-eabi-newlib
+#1614959346
+make gdb
+#1614959152
+sudo su
+#1614960809
+cd ES-SPRING-2021/
+#1614960812
+git pull
+#1614960860
+git stash
+#1614960863
+git pull
+#1614960980
+cd labs/lab05
+#1614960988
+make gdb
+#1614961202
+make clean
+#1614961204
+make gdb
+#1614961502
+cd ES-SPRING-2021/
+#1614961503
+ls 
+#1614961518
+find -name ts*
+#1614961523
+find -r -name ts*
+#1614963273
+bashtop
+#1614980716
+4kmon
+#1614987308
+sudo su
+#1615087502
+lap
+#1615087519
+bashtop
+#1615087525
+htop
+#1615089963
+rvpn
+#1615128158
+lap
+#1615128162
+bashtop
+#1615128190
+nmtui
+#1615128333
+sudo reboot
+#1615128428
+lap
+#1615133714
+4kmon
+#1615133743
+nano bin/fixfeh 
+#1615133780
+fixfeh
+#1615133805
+pkill conky
+#1615135997
+2kmon
+#1615136004
+cd bin/
+#1615136009
+bash 2kmon
+#1615136858
+iwconfig
+#1615136913
+ip link set interface up
+#1615136950
+ip link set wlp0s20f0u4 up
+#1615136953
+sudo su
+#1615138189
+fixfeh
+#1615138233
+iwconfig
+#1615138235
+sudo su
+#1615138302
+nmtui
+#1615139126
+lap
+#1615139172
+nmtui
+#1615139368
+4kmon
+#1615139401
+2kmon
+#1615139406
+bash 2kmon
+#1615139417
+nano bin/2kmon 
+#1615148895
+nmtui
+#1615151025
+4kmon
+#1615151071
+cd .config/
+#1615151080
+cd ..
+#1615151755
+sudo su
+#1615152095
+fixfeh
+#1615152260
+cd bin/
+#1615152264
+cd /bin/
+#1615153083
+pkill conky
+#1615153096
+start_conky_maia
+#1615153263
+pkill conky
+#1615153301
+start_conky_maia
+#1615153396
+pkill conky
+#1615153398
+start_conky_maia
+#1615153448
+pkill conky
+#1615153449
+start_conky_maia
+#1615156314
+pkill conky
+#1615159833
+cat start_conky_maia
+#1615159855
+cd /bin/
+#1615159867
+find -name "start_conky_maia"
+#1615159878
+cat start_conky_maia 
+#1615159913
+sudo nano start_conky_maia 
+#1615159946
+start_conky_maia
+#1615159953
+pkill conky
+#1615159958
+start_conky_maia
+#1615160348
+cd .config/
+#1615160384
+pacman -Syu polybar
+#1615160557
+cd bin/
+#1615160567
+touch polybar-switch
+#1615160571
+nano polybar-switch 
+#1615160644
+cd ../.config/polybar/
+#1615160652
+touch launch.sh
+#1615160678
+touch launch
+#1615160739
+cd ..
+#1615160760
+mkdir polybar
+#1615160763
+cd polybar/
+#1615160770
+git clone https://github.com/ngynLk/polybar-themes.git
+#1615160783
+mv polybar-themes/ themes
+#1615160801
+touch launch.sh
+#1615160811
+nano launch.sh 
+#1615160891
+bash polybar-switch
+#1615160925
+mv launch.sh launch
+#1615160928
+nano launch 
+#1615160944
+bash polybar-switch
+#1615160957
+cd ../../bin/
+#1615160961
+nano polybar-switch 
+#1615160975
+bash polybar-switch 
+#1615161010
+polybar --config=$HOME/.config/polybar/config.ini
+#1615161016
+cd ..
+#1615161037
+cd .config/polybar/
+#1615161042
+cd themes/
+#1615161051
+polybar miniblocks
+#1615161057
+cd miniblocks/
+#1615161063
+sh launch.sh 
+#1615161091
+polybar example
+#1615161099
+make userconfig
+#1615161107
+cd ..
+#1615161209
+cd .config/
+#1615161211
+cd polybar/
+#1615161261
+cd themes/
+#1615161265
+cd miniblocks/
+#1615161282
+cp * ../../
+#1615161284
+cd ..
+#1615161285
+cd ,,
+#1615161287
+cd ..
+#1615161292
+mv config config.ini
+#1615161295
+polybar
+#1615161304
+sh launch
+#1615161307
+sh launch.sh
+#1615161335
+polybar --config=/home/tichy/.config/polybar/config.ini
+#1615161375
+mv config.ini config
+#1615161379
+polybar --config=/home/tichy/.config/polybar/config
+#1615161382
+polybar
+#1615161385
+polybar example
+#1615161394
+cat config 
+#1615161437
+cat launch.sh
+#1615161448
+polybar -rq music &
+#1615161448
+polybar -rq tray &
+#1615161448
+polybar -rq ws &
+#1615161519
+pacman -Ss CozetteVector
+#1615161544
+pacman -Ss cozette-ttf
+#1615161550
+pacman -Syu cozette-ttf
+#1615161658
+cd .config/polybar/
+#1615161669
+rm config get_workspace launch launch.sh 
+#1615161672
+cd themes/
+#1615161693
+pamac search wsnumber
+#1615161855
+cd blocks/
+#1615161868
+cp config get_workspace launch.sh ../../
+#1615161870
+cd ..
+#1615161884
+sh launch.sh 
+#1615162190
+pamac build mpd
+#1615162225
+pkill polybar
+#1615162231
+cd .config/
+#1615162232
+cd polybar/
+#1615162235
+sh launch.sh 
+#1615162275
+pacman -Syu jq
+#1615162364
+cd .config/polybar/
+#1615162368
+sh launch.sh 
+#1615162553
+cd .config/polybar/
+#1615162555
+nano config 
+#1615152166
+sudo su
+#1615160387
+sudo su
+#1615162277
+sudo su
+#1615162752
+fixfeh
+#1615162899
+bashtop
+#1615170447
+pkill polybar
+#1615170498
+cd .config/polybar/
+#1615170508
+rm config get_workspace launch.sh 
+#1615170511
+cd themes/
+#1615170516
+cd san
+#1615170531
+cp config launch.sh ../../
+#1615170532
+cd ..
+#1615170541
+sh launch.sh 
+#1615171330
+mkdir ~/.config/mpd
+#1615171336
+cp /usr/share/doc/mpd/mpdconf.example ~/.config/mpd/mpd.conf
+#1615171360
+cd .config/mpd/
+#1615171365
+nano mpd.conf 
+#1615171396
+mkdir ~/.config/mpd/playlists
+#1615171405
+mpd
+#1615171420
+mpd mpd.conf 
+#1615171445
+nano mpd.conf 
+#1615171509
+mpc update
+#1615171559
+cd playlists/
+#1615171563
+cd ..
+#1615171575
+pamac remove mpd
+#1615171589
+cd ..
+#1615171596
+rm -rf mpd/
+#1615171617
+pacman -R mpd
+#1615171763
+mkdir ~/.config/mpd
+#1615171781
+cp /usr/share/doc/mpd/mpdconf.example ~/.config/mpd/mpd.conf
+#1615171801
+cd .config/mpd/
+#1615171847
+mkdir ~/.config/mpd/playlists
+#1615171851
+mpd
+#1615172009
+mpd .config/mpd/mpd.conf 
+#1615171803
+emacs mpd.conf 
+#1615170609
+sudo su
+#1615171619
+sudo su
+#1615172085
+fixfeh
+#1615172104
+mpd
+#1615172148
+mpc update
+#1615172152
+mpd
+#1615172209
+mpd update
+#1615172220
+mpd .config/mpd/playlists/
+#1615172228
+ls .config/mpd/playlists/
+#1615172631
+cd Downloads/
+#1615172645
+tar -xvf spotify-cli_1.0.3_Linux_x86_64.tar.gz 
+#1615172651
+./spotify-cli 
+#1615172781
+export SPOTIFY_CLIENT_ID=8f1d30f32f20460989023465400d936d
+#1615172803
+export SPOTIFY_SECRET=7a1a0d73fcdf47769992eedad2d28fcd
+#1615172822
+./spotify-cli 
+#1615172282
+sudo su
+#1615173163
+fixfeh
+#1615173180
+cd Downloads/
+#1615173182
+./spotify-cli 
+#1615173213
+export SPOTIFY_CLIENT_ID=8f1d30f32f20460989023465400d936d
+#1615173224
+export SPOTIFY_SECRET=7a1a0d73fcdf47769992eedad2d28fcd
+#1615173226
+./spotify-cli 
+#1615173276
+playerctl
+#1615173283
+playerctl play 
+#1615173313
+systemctl disable mpd.service
+#1615173326
+systemctl enable mpd.service
+#1615173334
+mpd
+#1615173433
+alsa
+#1615173485
+cd Downloads/
+#1615173488
+./spotify-cli 
+#1615173519
+cd ..
+#1615173585
+source .bashrc
+#1615173597
+cd Downloads/
+#1615173599
+./spotify-cli 
+#1615173760
+picom
+#1615173896
+powermenu
+#1615173904
+pamac search powermenu
+#1615173937
+pacman ls
+#1615173944
+cd ..
+#1615174000
+cd .config/polybar/
+#1615174005
+rm config launch.sh 
+#1615174007
+cd themes/
+#1615174011
+cd transparent/
+#1615174015
+cp config launch.sh 
+#1615174025
+cp config launch.sh ../../
+#1615174026
+cd ..
+#1615174027
+cd..
+#1615174032
+cd //
+#1615174034
+cd ..
+#1615174043
+cd home/tichy/
+#1615174047
+cd .config/polybar/
+#1615174051
+sh launch.sh 
+#1615174206
+pkill compton
+#1615174212
+cd ..
+#1615174409
+cd .config/polybar/
+#1615174413
+cat config 
+#1615174552
+nmtui
+#1615174655
+rm config launch.sh 
+#1615174664
+cp themes/arch-blur/ .
+#1615174671
+cd themes/
+#1615174678
+cd arch-blur/
+#1615174685
+cp config launch.sh ../../
+#1615174686
+cd ..
+#1615174690
+sh launch.sh 
+#1615174746
+polbar
+#1615174748
+polybar
+#1615174753
+polybar -r
+#1615174762
+polybar --reload
+#1615174214
+emacs picom.conf 
+#1615175461
+cd polybar/
+#1615175465
+rm config launch.sh 
+#1615175468
+cd themes/
+#1615175476
+cd ..
+#1615175482
+git clone git clone https://github.com/Murzchnvok/polybar-collection
+#1615175492
+git clone https://github.com/Murzchnvok/polybar-collection
+#1615175531
+cd polybar-collection/
+#1615175535
+cd material/
+#1615175538
+sh launch.sh 
+#1615175561
+cd .config/polybar/
+#1615175581
+cp -r colors.ini config.ini fonts.ini include-modules.ini launch.sh material-colors.txt modules/ ../../
+#1615175584
+cd ..
+#1615175592
+sh launch.sh 
+#1615175670
+pamac build ttf-material-design-icons
+#1615175728
+cd .config/
+#1615175731
+cd polybar/
+#1615175736
+cd modules/
+#1615175756
+cd ..
+#1615175756
+cd .
+#1615175757
+.ls
+#1615175769
+cd polybar-collection/
+#1615175788
+cd .config/polybar/
+#1615175790
+sh launch.sh 
+#1615175804
+cd material/
+#1615175811
+pwd
+#1615175822
+cd ..
+#1615175827
+cd polybar/
+#1615175849
+rm -rf colors.ini config.ini fonts.ini include-modules.ini launch.sh material-colors.txt polybar-collection/
+#1615175858
+cd ..
+#1615175862
+git clone https://github.com/Murzchnvok/polybar-collection.git
+#1615175866
+cd polybar-collection/
+#1615175878
+cd material/
+#1615175880
+sh launch.sh 
+#1615173385
+sudo su
+#1615175297
+sudo su
+#1615173527
+emacs .bashrc
+#1615175700
+emacs launch.sh 
+#1615175942
+fixfeh
+#1615175949
+cd polybar-collection/
+#1615175951
+sh launch.sh 
+#1615175965
+pkill polybar
+#1615175967
+cd polybar-collection/
+#1615175970
+cd material/
+#1615175972
+sh launch.sh 
+#1615176026
+pkill polybar
+#1615176055
+pacman -Syu picom
+#1615176310
+cd polybar-collection/
+#1615176312
+cd material/
+#1615176313
+sh launch.sh 
+#1615176577
+cd /sys/class/power
+#1615176581
+cd /sys/class/power_supply/
+#1615176608
+cd ..
+#1615176613
+cd polybar-collection/
+#1615176615
+cd material/
+#1615176617
+sh launch.sh 
+#1615176641
+iwconfig
+#1615176657
+cd polybar-collection/
+#1615176659
+cd material/
+#1615176661
+sh launch.sh 
+#1615176811
+pkill polybar
+#1615176814
+cd home/tichy/
+#1615176819
+cd polybar-collection/
+#1615176821
+sh launch.sh 
+#1615176875
+pkill polyar
+#1615176880
+pkill polybar
+#1615176884
+pkill i3bar
+#1615176888
+cd polybar-collection/
+#1615176891
+sh launch.sh 
+#1615176917
+cd polybar-collection/
+#1615176920
+cd dracula/
+#1615176922
+sh launch.sh 
+#1615177261
+cd .cof
+#1615177264
+cd .config/
+#1615177272
+cd polybar/
+#1615177274
+sh launch.sh 
+#1615177283
+mv config.ini config
+#1615177286
+sh launch.sh 
+#1615177320
+emacs
+#1615177722
+cd .config/
+#1615177723
+cd polybar/
+#1615178115
+picom
+#1615178147
+picom
+#1615178153
+pkill compton
+#1615178162
+picom
+#1615178230
+pkill compton
+#1615178190
+compton
+#1615178234
+picom
+#1615178238
+compton
+#1615176057
+sudo su
+#1615178284
+pkill compton
+#1615178287
+pkill picom
+#1615178289
+picom
+#1615178317
+fixfeh
+#1615178445
+pkill picom
+#1615178501
+pkill compton
+#1615178720
+lap
+#1615178749
+4kmon
+#1615180404
+spiceitfy
+#1615180406
+spicetify 
+#1615180410
+spicetify -h
+#1615180418
+spicetify update
+#1615180214
+htop
+#1615180552
+screenfetch 
+#1615181084
+lap
+#1615181112
+cd bin/
+#1615181116
+4kmon
+#1615181183
+lap
+#1615181195
+4kmon
+#1615181240
+lap
+#1615181282
+4kmon
+#1615181308
+cd .config/
+#1615181311
+cd ..
+#1615181318
+cd .i3/
+#1615181331
+mv config.4k config
+#1615181355
+cd .config/
+#1615181358
+cd //
+#1615181361
+cd home/tichy/bin/
+#1615181428
+lap
+#1615181433
+4kmon
+#1615181460
+cd .config/
+#1615181473
+cd ..
+#1615181476
+cd .i3/
+#1615181479
+emacs config
+#1615181770
+cd .i3
+#1615181777
+rm config.4k
+#1615181779
+rm config.4k.backup 
+#1615181368
+emacs 4kmon
+#1615178503
+picom
+#1615181894
+cd .i3/
+#1615181910
+rm config.4k
+#1615181922
+mv config.4k.old config.4k
+#1615181982
+mv config config.lap
+#1615182030
+mv config.4k config
+#1615182041
+picom
+#1615182087
+lap
+#1615182099
+4kmon
+#1615182199
+lap
+#1615182301
+4kmon
+#1615182313
+lap
+#1615182470
+xkill
+#1615182499
+emacs config~
+#1615182578
+mv .i3/config.4k config
+#1615182586
+cd .i3/
+#1615182593
+nano config
+#1615182603
+nano config~
+#1615182615
+mv config~ config
+#1615182639
+rm config
+#1615182646
+mv config.4k.old config
+#1615215502
+cd .i3/
+#1615215509
+mv config.4k config
+#1615215523
+mv config.lap config.4k
+#1615215550
+mv config.old config.lap
+#1615215604
+i3bar
+#1615215671
+cp config.4k config.4k.old
+#1615215678
+rm config.4k.old
+#1615215857
+fixfeh
+#1615218454
+cat /sys/class/backlight/
+#1615218462
+ls /sys/class/backlight/
+#1615221210
+pkill picom
+#1615221218
+pkill compton
+#1615221229
+picom
+#1615221239
+picom --experimental-backends --backend glx
+#1615222240
+pkill compton
+#1615222244
+pkill picom
+#1615222246
+picom --experimental-backends --backend glx
+#1615222815
+4kmon
+#1615222826
+pkill picom
+#1615222904
+bashtop
+#1615223246
+screenfetch
+#1615223498
+sudo pacman -S ncurses fftw cmake
+#1615223551
+git clone https://github.com/dpayne/cli-visualizer.git
+#1615223555
+cd cli-visualizer/
+#1615223558
+sh install.sh 
+#1615223617
+asound
+#1615223650
+vis
+#1615224307
+htop
+#1615224775
+cd .config/
+#1615225203
+lap
+#1615225218
+4kmon
+#1615225309
+lap
+#1615225367
+4kmon
+#1615225424
+lap
+#1615222879
+htop
+#1615225457
+note
+#1615225556
+4kmon
+#1615225572
+lap
+#1615225746
+4kmon
+#1615225823
+lap
+#1615228631
+fixfeh
+#1615228652
+htop
+#1615239634
+4kmon
+#1615239667
+fixfeh
+#1615239985
+pkill picom
+#1615240678
+2kmon
+#1615240681
+bash 2kmon
+#1615240691
+picom
+#1615240896
+nmtui
+#1615245071
+4kmon
+#1615245917
+lap
+#1615261709
+fixfeh
+#1615261738
+nmtui
+#1615262045
+xkill
+#1615301026
+4kmon
+#1615301197
+fixfeh
+#1615301366
+4kmon
+#1615301523
+htoop
+#1615301525
+htop
+#1615301533
+top
+#1615301538
+vis
+#1615301971
+sudo su
+#1615301988
+lds
+#1615301989
+vis
+#1615302222
+screenfetch
+#1615302314
+cd .config/
+#1615303393
+git clone 
+#1615303393
+git clone https://github.com/adi1090x/termite-style
+#1615303398
+cd termite-style/
+#1615303401
+./install 
+#1615303418
+termite-style
+#1615303976
+xkill
+#1615303989
+termite-style
+#1615304267
+scrot
+#1615304273
+scrot -d 2
+#1615304797
+cd .config/termite/
+#1615304801
+ls -a
+#1615304804
+touch matcha1
+#1615304816
+cd ..
+#1615304851
+chown tichy termite
+#1615304854
+sudo su
+#1615304872
+cd termite/
+#1615304874
+touch matcha1
+#1615304744
+termite-style
+#1615304884
+emacs matcha1 
+#1615304996
+screenfetch
+#1615304960
+htop
+#1615305130
+bashtop
+#1615305178
+pip3 install bpytop --upgrade
+#1615305391
+screenfetch 
+#1615305664
+scrot -d 3
+#1615305190
+bpytop
+#1615306008
+cd .config/termite/
+#1615306015
+touch matcha2
+#1615306019
+termite-style 
+#1615306061
+nano .config/termite/matcha2
+#1615306104
+htop
+#1615306222
+4kmon
+#1615306252
+screenfetch
+#1615306674
+cd .config/
+#1615306721
+scrot
+#1615306149
+emacs .i3/config
+#1615306781
+scrot -d 3
+#1615307493
+vis
+#1615308085
+cat config 
+#1615308478
+scrot -d 3
+#1615308517
+screenfetch
+#1615308525
+scrot
+#1615308537
+scrot -d 3
+#1615308556
+scrot -d 4
+#1615306117
+bpytop 
+#1615309287
+pamac search photoscape
+#1615309296
+pacman -S photoscape
+#1615309837
+screenfetch
+#1615309945
+scrot
+#1615310339
+vis
+#1615310594
+scrot -d 4
+#1615309298
+sudo su
+#1615310754
+cd config
+#1615310757
+cd configfiles/
+#1615310774
+cd home
+#1615310779
+cd can/
+#1615310784
+ls -a
+#1615310787
+cd ..
+#1615310791
+rm -rf *
+#1615310807
+cd .config/
+#1615310886
+cp -r vis termite/ rofi/ polybar/ ../configfiles/
+#1615310891
+cd ..
+#1615310893
+cd Pictures/
+#1615310906
+cp tealManjaro.png ../configfiles/
+#1615310913
+cd ..
+#1615310915
+cd config
+#1615310926
+git add --all .
+#1615310934
+cd polybar/
+#1615310943
+ls -a
+#1615310951
+cd ..
+#1615310955
+rm -rf polybar/
+#1615310959
+cd .config/
+#1615310961
+cd polybar/
+#1615310977
+cp config launch.sh ../../configfiles/
+#1615310985
+mkdir polybar
+#1615310993
+cp config launch.sh polybar/
+#1615310999
+rm config launch.sh 
+#1615311007
+git add --all .
+#1615311009
+git commit
+#1615311020
+git push
+#1615311243
+screenfetch
+#1615311381
+cd ..
+#1615311395
+cat conky_maia 
+#1615311410
+git add conky_maia 
+#1615311418
+git commit -m "added conky"
+#1615311420
+git push
+#1615313950
+nmtui
+#1615314095
+rvpn
+#1615314224
+ip a
+#1615314283
+iwconfig
+#1615314292
+dhclient -r wlan0
+#1615314308
+dhclient wlan0
+#1615314311
+sudo su
+#1615309783
+bpytop 
+#1615318752
+suod su
+#1615318756
+sudo su
+#1615323016
+4kmon
+#1615335479
+cd configfiles/
+#1615335495
+rm -rf .i3/
+#1615335516
+cp -r .i3/ configfiles/
+#1615335534
+cd configfiles/
+#1615335537
+cd .i3/
+#1615335541
+ls -a
+#1615335547
+rm -rf .#.#config.lap
+#1615335553
+cd ..
+#1615335559
+git add .i3/
+#1615335560
+git commit
+#1615335573
+git push
+#1615335665
+bpytop 
+#1615337436
+cd PycharmProjects/
+#1615337438
+cd solvingcomputerscience/
+#1615337450
+source venv/bin/activate
+#1615337456
+cd venv/
+#1615337460
+cd include/
+#1615337465
+cd ..
+#1615337471
+pip install Pillow

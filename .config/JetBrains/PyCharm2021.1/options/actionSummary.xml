@@ -1,0 +1,181 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="6" l="1623014773554" />
+    </e>
+    <e n="$Delete">
+      <i c="1" l="1623003369205" />
+    </e>
+    <e n="$Paste">
+      <i c="2" l="1623007300250" />
+    </e>
+    <e n="$Redo">
+      <i c="140" l="1623007659090" />
+    </e>
+    <e n="$SelectAll">
+      <i c="3" l="1623007490835" />
+    </e>
+    <e n="$Undo">
+      <i c="308" l="1623112904225" />
+    </e>
+    <e n="AutoIndentLines">
+      <i c="2" l="1623007493985" />
+    </e>
+    <e n="BraceOrQuoteOut">
+      <i c="2" l="1623003611111" />
+    </e>
+    <e n="CWMHostShowPopupAction">
+      <i c="2" l="1617989864059" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="17" l="1623112520661" />
+    </e>
+    <e n="CopyPaths">
+      <i c="1" l="1613013829196" />
+    </e>
+    <e n="Debug">
+      <i c="3" l="1618863770054" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="2000" l="1623300146441" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="65" l="1623003620899" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="1" l="1623003614438" />
+    </e>
+    <e n="EditorCopy">
+      <i c="58" l="1623112792798" />
+    </e>
+    <e n="EditorCut">
+      <i c="21" l="1623112902481" />
+    </e>
+    <e n="EditorDeleteLine">
+      <i c="1" l="1615337042120" />
+    </e>
+    <e n="EditorDown">
+      <i c="73" l="1623300114343" />
+    </e>
+    <e n="EditorDuplicate">
+      <i c="7" l="1623014684484" />
+    </e>
+    <e n="EditorEnter">
+      <i c="241" l="1623014619203" />
+    </e>
+    <e n="EditorIndentSelection">
+      <i c="3" l="1617997121485" />
+    </e>
+    <e n="EditorLeft">
+      <i c="349" l="1623299900550" />
+    </e>
+    <e n="EditorPageUp">
+      <i c="1" l="1617994605166" />
+    </e>
+    <e n="EditorPaste">
+      <i c="134" l="1623112797434" />
+    </e>
+    <e n="EditorRight">
+      <i c="419" l="1623299990963" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="1" l="1617398322614" />
+    </e>
+    <e n="EditorTab">
+      <i c="11" l="1623003616400" />
+    </e>
+    <e n="EditorUp">
+      <i c="44" l="1623300093516" />
+    </e>
+    <e n="Find">
+      <i c="2" l="1617997290736" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="3" l="1623014758491" />
+    </e>
+    <e n="NewDirectoryProject">
+      <i c="3" l="1623003472162" />
+    </e>
+    <e n="NewElement">
+      <i c="2" l="1618862141604" />
+    </e>
+    <e n="NewFile">
+      <i c="1" l="1617991850043" />
+    </e>
+    <e n="NewPythonFile">
+      <i c="1" l="1617387923274" />
+    </e>
+    <e n="OpenFile">
+      <i c="7" l="1623007261441" />
+    </e>
+    <e n="PreviousOccurence">
+      <i c="1" l="1617994157872" />
+    </e>
+    <e n="QuickImplementations">
+      <i c="1" l="1623007492173" />
+    </e>
+    <e n="Replace">
+      <i c="1" l="1617996400348" />
+    </e>
+    <e n="Run">
+      <i c="103" l="1623300148213" />
+    </e>
+    <e n="SaveAll">
+      <i c="215" l="1623299904469" />
+    </e>
+    <e n="ShowSettings">
+      <i c="3" l="1617989662707" />
+    </e>
+    <e n="Stop">
+      <i c="13" l="1617990911235" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$1">
+      <i c="1" l="1617997174475" />
+    </e>
+    <e n="com.intellij.execution.console.ConsoleExecuteAction">
+      <i c="1" l="1615342557274" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+      <i c="1" l="1617997293882" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.SwitchToReplace">
+      <i c="1" l="1617994387636" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerMain$2">
+      <i c="1" l="1617989676149" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$StatusAction">
+      <i c="2" l="1618001184354" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="3" l="1623007311643" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="2" l="1617994429103" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="4" l="1623300271510" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="6" l="1617110448615" />
+    </e>
+    <e n="com.intellij.openapi.updateSettings.impl.UpdateChecker$showUpdateResult$5$1">
+      <i c="1" l="1617989667777" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+      <i c="2" l="1618865271978" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$5">
+      <i c="1" l="1613011120386" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1613011206263" />
+    </e>
+    <e n="com.jetbrains.python.console.PyConsoleUtil$2">
+      <i c="1" l="1615339826002" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="1" l="1617388064478" />
+    </e>
+  </component>
+</application>

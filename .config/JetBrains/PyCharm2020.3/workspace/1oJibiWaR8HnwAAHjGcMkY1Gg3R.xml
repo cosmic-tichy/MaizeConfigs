@@ -1,0 +1,170 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-386">
+              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hw4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="609">
+              <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/lib/python3.9/site-packages/sympy/ntheory/factor_.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="697">
+              <caret line="1885" lean-forward="true" selection-start-line="1885" selection-end-line="1885" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/main.py" />
+      <option value="$PROJECT_DIR$/hw4.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="solvingcomputerscience" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solvingcomputerscience" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="history-" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16101000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16417083" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="Learn" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.32895428" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" weight="0.2199793" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.39958593" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32971016" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32971016" />
+      <window_info anchor="bottom" id="Flow" order="13" />
+      <window_info anchor="bottom" id="TypeScript" order="14" />
+      <window_info anchor="bottom" id="Services" order="15" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="SciView" order="1" />
+    </layout>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="WindowStateProjectService">
+    <state x="2319" y="725" width="1084" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617388072381">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state x="2319" y="725" width="1084" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3840.2160@0.0.3840.2160" timestamp="1617388072381" />
+    <state x="2626" y="803" key="FileChooserDialogImpl" timestamp="1617388069569">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state x="2626" y="803" key="FileChooserDialogImpl/0.0.3840.2160@0.0.3840.2160" timestamp="1617388069569" />
+    <state width="1803" height="598" key="GridCell.Tab.0.bottom" timestamp="1617391622889">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1803" height="598" key="GridCell.Tab.0.bottom/0.0.3840.2160@0.0.3840.2160" timestamp="1617391622889" />
+    <state width="1803" height="598" key="GridCell.Tab.0.center" timestamp="1617391622888">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1803" height="598" key="GridCell.Tab.0.center/0.0.3840.2160@0.0.3840.2160" timestamp="1617391622888" />
+    <state width="1803" height="598" key="GridCell.Tab.0.left" timestamp="1617391622887">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1803" height="598" key="GridCell.Tab.0.left/0.0.3840.2160@0.0.3840.2160" timestamp="1617391622887" />
+    <state width="1803" height="598" key="GridCell.Tab.0.right" timestamp="1617391622888">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1803" height="598" key="GridCell.Tab.0.right/0.0.3840.2160@0.0.3840.2160" timestamp="1617391622888" />
+    <state width="1803" height="744" key="GridCell.Tab.1.bottom" timestamp="1615339829060">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1803" height="744" key="GridCell.Tab.1.bottom/0.0.3840.2160@0.0.3840.2160" timestamp="1615339829060" />
+    <state width="1803" height="744" key="GridCell.Tab.1.center" timestamp="1615339829059">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1803" height="744" key="GridCell.Tab.1.center/0.0.3840.2160@0.0.3840.2160" timestamp="1615339829059" />
+    <state width="1803" height="744" key="GridCell.Tab.1.left" timestamp="1615339829058">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1803" height="744" key="GridCell.Tab.1.left/0.0.3840.2160@0.0.3840.2160" timestamp="1615339829058" />
+    <state width="1803" height="744" key="GridCell.Tab.1.right" timestamp="1615339829059">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state width="1803" height="744" key="GridCell.Tab.1.right/0.0.3840.2160@0.0.3840.2160" timestamp="1615339829059" />
+    <state x="454" y="114" key="SettingsEditor" timestamp="1615586142536">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="454" y="114" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1615586142536" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-386">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.9/site-packages/sympy/ntheory/factor_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="1885" lean-forward="true" selection-start-line="1885" selection-end-line="1885" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

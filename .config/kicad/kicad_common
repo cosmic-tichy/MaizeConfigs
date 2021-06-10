@@ -1,0 +1,17 @@
+UseIconsInMenus=1
+IconScale=0
+MousewheelPAN=0
+ZoomNoCenter=0
+AutoPAN=1
+OpenGLAntialiasingMode=0
+CairoAntialiasingMode=0
+WorkingDir=/home/tichy
+ShowEnvVarWarningDialog=1
+Editor=/usr/bin/nano
+[EnvironmentVariables]
+KICAD_SYMBOL_DIR=/usr/share/kicad/library
+KICAD_TEMPLATE_DIR=/usr/share/kicad/template
+KICAD_USER_TEMPLATE_DIR=/home/tichy/kicad/template
+KIGITHUB=https://github.com/KiCad
+KISYS3DMOD=/usr/share/kicad/modules/packages3d/
+KISYSMOD=/usr/share/kicad/modules
