@@ -1,1 +1,1 @@
-Config files for Mayan themes rice (Maize)
+Config files for Mayan themed rice (Maize)
